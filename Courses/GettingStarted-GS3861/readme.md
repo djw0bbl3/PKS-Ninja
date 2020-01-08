@@ -92,7 +92,7 @@ The first step in learning how to participate in git projects starts with the  [
 
 **Note: For your own personal git repos, you do not typically do a pull request (PR). The PR process is implemented on projects with multiple contributors including most professional and open source projects, including the PKS Ninja repositories**
 
-While the simple method to do PR's is very useful for simple updates, if you plan to work regularly on git based projects or want to develop this important skill, the more advanved method of doing a pull request is important, as it allows you to make your updates on a copy of the git repository that you download to your local workstation where you can use more advanced editing tools and functions. 
+While the simple method to do PR's is very useful for simple updates, if you plan to work regularly on git based projects or want to develop this important skill, the more advanced method of doing a pull request is important, as it allows you to make your updates on a copy of the git repository that you download to your local workstation where you can use more advanced editing tools and functions. 
 
 The advanced pull request method is a fairly simple, repetive process that is really easy and quick *once you get used to the process*, However, the process is very intimidating for new users. Its a lot like riding a bicycle, which can seem like an active of gravity-defying complexity if youve never done it, but it can be learned pretty quickly and once you learn it is very easy. 
 
